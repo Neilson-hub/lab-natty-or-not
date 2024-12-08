@@ -48,10 +48,10 @@ Essas tecnologias estão na vanguarda da inovação em inteligência artificial,
 Se precisar de mais detalhes sobre alguma dessas tecnologias ou suas aplicações, sinta-se à vontade para perguntar! 🚀
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o copilot na criação desse projeto 
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O resultado foi aumento de conhecimento nessa area de IA
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
